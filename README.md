@@ -1,4 +1,12 @@
-# login-register
-Create Login and Register using java Swing
+# EnergyTrack-project
 
-![login](https://user-images.githubusercontent.com/58245926/197346020-01aeb748-ed95-41ca-9c20-02a348711322.gif)
+✔Login
+✔Register 
+✔Joule Effect Calculator
+✔Energy Consumption Calculator
+✔Energy Potency Calculator
+✔Custom Java Swing Tools 
+
+![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/7bca991f-cec1-43c9-ad3d-e101859c6f4d)
+
+

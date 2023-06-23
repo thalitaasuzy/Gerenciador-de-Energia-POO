@@ -1,4 +1,8 @@
 <h1>Visão geral do projeto</h1>
+
+![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/90c6727e-1097-4d92-ba4f-9555a5abc74e)
+
+
 EnergyTrack é um projeto de gerenciador de energia que permite aos usuários monitorar e controlar o consumo de energia em suas residências ou empresas. O objetivo do EnergyTrack é fornecer informações detalhadas sobre o consumo de energia, permitindo que os usuários tomem medidas para economizar energia, reduzir custos e promover a sustentabilidade.
 
 <h1>Tecnologias utilizadas</h1>

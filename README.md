@@ -39,7 +39,7 @@ Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 
 4 - Configure as dependências do Maven e deixe que ele baixe todas as bibliotecas necessárias para você.
 
-5 - Execute o aplicativo a partir da classe Main localizada no pacote .main.java
+5 - Execute o aplicativo a partir da classe Main localizada no pacote .main.form
 
 <h1>Contribuição</h1>
 Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas etapas:

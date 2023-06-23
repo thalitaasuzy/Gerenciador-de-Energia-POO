@@ -18,6 +18,11 @@ Gerenciamento de dependências: Maven  <br>
 - Reescrita (@override)  <br>
 - Tratamento de excessões (try/catch)  <br>
 
+<h1>Fluxograma</h1>
+
+![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/0f42dadb-d776-4016-b0ea-79f849d2a976)
+
+<br>
 
 <h1>Como executar o EnergyTrack</h1>
 Para executar o EnergyTrack em seu sistema local, siga estas etapas:
@@ -53,6 +58,7 @@ Agradecemos antecipadamente por suas contribuições!
 ✔Energy Consumption Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/de922cef-3902-4043-ab25-706ffeeb7bb1)  <br>
 ✔Energy Potency Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/11f4d270-0f85-4651-917a-0d826b6f42ef)  <br>
 ✔Custom Java Swing Tools <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/aac1b4bf-e74e-474b-824c-e07722d40fa7)  <br>
+
 
 
 

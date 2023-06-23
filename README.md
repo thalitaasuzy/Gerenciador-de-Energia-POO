@@ -54,6 +54,7 @@ Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas eta
 
 Agradecemos antecipadamente por suas contribuições!
 
+
 <h1>Interface Gráfica</h1>
 
 ✔Login and Register <br>
@@ -65,6 +66,8 @@ Agradecemos antecipadamente por suas contribuições!
 🔴Voltage Calculator (in process) <br>
 🔴Resistance Calculator (in process) <br>
 
+<h1>Licença</h1>
+O EnergyTrack é licenciado sob a [MIT License](
 
 
 

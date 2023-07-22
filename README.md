@@ -1,11 +1,11 @@
-<h5>Visão geral do projeto</h5>
+<h3>Visão geral do projeto</h3>
 
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/90c6727e-1097-4d92-ba4f-9555a5abc74e)
 
 
 EnergyTrack é um projeto de gerenciador de energia que permite aos usuários monitorar e controlar o consumo de energia em suas residências ou empresas. O objetivo do EnergyTrack é fornecer informações detalhadas sobre o consumo de energia, permitindo que os usuários tomem medidas para economizar energia, reduzir custos e promover a sustentabilidade.
 
-<h5>Tecnologias utilizadas</h5>
+<h3>Tecnologias utilizadas</h3>
 O EnergyTrack foi desenvolvido usando as seguintes tecnologias:
 
 Linguagem de programação: Java  <br>
@@ -14,7 +14,7 @@ IDE: NetBeans <br>
 Framework de interface gráfica: JavaSwing  <br>
 Gerenciamento de dependências: Maven  <br>
 
-<h5>Recursos das aulas de Programação Orientada a objetos</h5>
+<h3>Recursos das aulas de Programação Orientada a objetos</h3>
 - Classes <br>
 - Objetos  <br>
 - Metódos Getters, Setters e Construtores  <br>
@@ -22,13 +22,13 @@ Gerenciamento de dependências: Maven  <br>
 - Reescrita (@override)  <br>
 - Tratamento de excessões (try/catch)  <br>
 
-<h1>Fluxograma</h1>
+<h3>Fluxograma</h3>
 
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/0f42dadb-d776-4016-b0ea-79f849d2a976)
 
 <br>
 
-<h5>Como executar o EnergyTrack</h5>
+<h3>Como executar o EnergyTrack</h3>
 Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 
 1 - Clone o repositório do EnergyTrack para o seu ambiente de desenvolvimento.
@@ -41,7 +41,7 @@ Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 
 5 - Execute o aplicativo a partir da classe Main localizada no pacote .main.form
 
-<h5>Contribuição</h5>
+<h3>Contribuição</h3>
 Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas etapas:
 
 1 - Faça um fork do repositório EnergyTrack.
@@ -55,7 +55,7 @@ Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas eta
 Agradecemos antecipadamente por suas contribuições!
 
 
-<h5>Interface Gráfica</h5>
+<h3>Interface Gráfica</h3>
 
 ✔Login and Register <br>
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/7bca991f-cec1-43c9-ad3d-e101859c6f4d)  <br>
@@ -66,7 +66,7 @@ Agradecemos antecipadamente por suas contribuições!
 🔴Voltage Calculator (in process) <br>
 🔴Resistance Calculator (in process) <br>
 
-<h5>Licença</h5>
+<h3>Licença</h3>
 O EnergyTrack é licenciado sob a [MIT License](
 
 

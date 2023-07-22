@@ -62,7 +62,7 @@ Agradecemos antecipadamente por suas contribuições!
 ✔Joule Effect Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/67f34b34-9298-49c5-9692-f0002168fbed)  <br>
 ✔Energy Consumption Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/de922cef-3902-4043-ab25-706ffeeb7bb1)  <br>
 ✔Energy Potency Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/11f4d270-0f85-4651-917a-0d826b6f42ef)  <br>
-✔Custom Java Swing Tools <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/aac1b4bf-e74e-474b-824c-e07722d40fa7)  <br>
+<!-- ✔Custom Java Swing Tools <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/aac1b4bf-e74e-474b-824c-e07722d40fa7)  <br> -->
 🔴Voltage Calculator (in process) <br>
 🔴Resistance Calculator (in process) <br>
 

@@ -8,11 +8,11 @@ EnergyTrack é um projeto de gerenciador de energia que permite aos usuários mo
 <h3>Tecnologias utilizadas</h3>
 O EnergyTrack foi desenvolvido usando as seguintes tecnologias:
 
-Linguagem de programação: Java  <br>
-Banco de dados: Notepad <br>
-IDE: NetBeans <br>
-Framework de interface gráfica: JavaSwing  <br>
-Gerenciamento de dependências: Maven  <br>
+-Linguagem de programação: Java  <br>
+-Banco de dados: Notepad <br>
+-IDE: NetBeans <br>
+-Framework de interface gráfica: JavaSwing  <br>
+-Gerenciamento de dependências: Maven  <br>
 
 <h3>Recursos das aulas de Programação Orientada a objetos</h3>
 - Classes <br>

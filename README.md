@@ -59,7 +59,7 @@ Agradecemos antecipadamente por suas contribuições!
 
 ✔Login and Register <br>
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/7bca991f-cec1-43c9-ad3d-e101859c6f4d) <br>
-Inspired in [DJ-Raven/login-register](https://github.com/DJ-Raven/login-register) <br>
+Inspired by [DJ-Raven/login-register](https://github.com/DJ-Raven/login-register) <br>
 ✔Joule Effect Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/67f34b34-9298-49c5-9692-f0002168fbed)  <br>
 ✔Energy Consumption Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/de922cef-3902-4043-ab25-706ffeeb7bb1)  <br>
 ✔Energy Potency Calculator <br> ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/11f4d270-0f85-4651-917a-0d826b6f42ef)  <br>

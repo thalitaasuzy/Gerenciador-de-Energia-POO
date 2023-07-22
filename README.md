@@ -1,11 +1,11 @@
-<h1>Visão geral do projeto</h1>
+<h5>Visão geral do projeto</h5>
 
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/90c6727e-1097-4d92-ba4f-9555a5abc74e)
 
 
 EnergyTrack é um projeto de gerenciador de energia que permite aos usuários monitorar e controlar o consumo de energia em suas residências ou empresas. O objetivo do EnergyTrack é fornecer informações detalhadas sobre o consumo de energia, permitindo que os usuários tomem medidas para economizar energia, reduzir custos e promover a sustentabilidade.
 
-<h1>Tecnologias utilizadas</h1>
+<h5>Tecnologias utilizadas</h5>
 O EnergyTrack foi desenvolvido usando as seguintes tecnologias:
 
 Linguagem de programação: Java  <br>
@@ -14,7 +14,7 @@ IDE: NetBeans <br>
 Framework de interface gráfica: JavaSwing  <br>
 Gerenciamento de dependências: Maven  <br>
 
-<h1>Recursos das aulas de Programação Orientada a objetos</h1>
+<h5>Recursos das aulas de Programação Orientada a objetos</h5>
 - Classes <br>
 - Objetos  <br>
 - Metódos Getters, Setters e Construtores  <br>
@@ -28,7 +28,7 @@ Gerenciamento de dependências: Maven  <br>
 
 <br>
 
-<h1>Como executar o EnergyTrack</h1>
+<h5>Como executar o EnergyTrack</h5>
 Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 
 1 - Clone o repositório do EnergyTrack para o seu ambiente de desenvolvimento.
@@ -41,7 +41,7 @@ Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 
 5 - Execute o aplicativo a partir da classe Main localizada no pacote .main.form
 
-<h1>Contribuição</h1>
+<h5>Contribuição</h5>
 Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas etapas:
 
 1 - Faça um fork do repositório EnergyTrack.
@@ -55,7 +55,7 @@ Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas eta
 Agradecemos antecipadamente por suas contribuições!
 
 
-<h1>Interface Gráfica</h1>
+<h5>Interface Gráfica</h5>
 
 ✔Login and Register <br>
 ![image](https://github.com/thalitaasuzy/Gerenciador-de-energia/assets/112733274/7bca991f-cec1-43c9-ad3d-e101859c6f4d)  <br>
@@ -66,7 +66,7 @@ Agradecemos antecipadamente por suas contribuições!
 🔴Voltage Calculator (in process) <br>
 🔴Resistance Calculator (in process) <br>
 
-<h1>Licença</h1>
+<h5>Licença</h5>
 O EnergyTrack é licenciado sob a [MIT License](
 
 

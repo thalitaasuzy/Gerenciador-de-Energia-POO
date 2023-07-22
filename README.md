@@ -8,11 +8,11 @@ EnergyTrack é um projeto de gerenciador de energia que permite aos usuários mo
 <h3>Tecnologias utilizadas</h3>
 O EnergyTrack foi desenvolvido usando as seguintes tecnologias:
 
--Linguagem de programação: Java  <br>
--Banco de dados: Notepad <br>
--IDE: NetBeans <br>
--Framework de interface gráfica: JavaSwing  <br>
--Gerenciamento de dependências: Maven  <br>
+- Linguagem de programação: Java  <br>
+- Banco de dados: Notepad <br>
+- IDE: NetBeans <br>
+- Framework de interface gráfica: JavaSwing  <br>
+- Gerenciamento de dependências: Maven  <br>
 
 <h3>Recursos das aulas de Programação Orientada a objetos</h3>
 - Classes <br>
@@ -29,7 +29,7 @@ O EnergyTrack foi desenvolvido usando as seguintes tecnologias:
 <br>
 
 <h3>Como executar o EnergyTrack</h3>
-Para executar o EnergyTrack em seu sistema local, siga estas etapas:
+Para executar o EnergyTrack em seu sistema local, siga estas etapas: <br>
 
 1 - Clone o repositório do EnergyTrack para o seu ambiente de desenvolvimento.
 
@@ -42,7 +42,7 @@ Para executar o EnergyTrack em seu sistema local, siga estas etapas:
 5 - Execute o aplicativo a partir da classe Main localizada no pacote .main.form
 
 <h3>Contribuição</h3>
-Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas etapas:
+Se você deseja contribuir para o desenvolvimento do EnergyTrack, siga estas etapas: <br> 
 
 1 - Faça um fork do repositório EnergyTrack.
 

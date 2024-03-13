@@ -7,6 +7,7 @@ EnergyTrack é um projeto de gerenciador de energia que permite aos usuários mo
 
 <h3>Tecnologias utilizadas</h3>
 O EnergyTrack foi desenvolvido usando as seguintes tecnologias: <br>
+
 - Linguagem de programação: Java  <br>
 - Banco de dados: Notepad <br>
 - IDE: NetBeans <br>
@@ -66,7 +67,7 @@ Agradecemos antecipadamente por suas contribuições!
 🔴Resistance Calculator (in process) <br>
 
 <h3>Licença</h3>
-O EnergyTrack é licenciado sob a [MIT License](
+O EnergyTrack é licenciado sob a MIT License
 
 
 

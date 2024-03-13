@@ -6,8 +6,6 @@
 EnergyTrack é um projeto de gerenciador de energia que permite aos usuários monitorar e controlar o consumo de energia em suas residências ou empresas. O objetivo do EnergyTrack é fornecer informações detalhadas sobre o consumo de energia, permitindo que os usuários tomem medidas para economizar energia, reduzir custos e promover a sustentabilidade.
 
 <h3>Tecnologias utilizadas</h3>
-O EnergyTrack foi desenvolvido usando as seguintes tecnologias: <br>
-
 - Linguagem de programação: Java  <br>
 - Banco de dados: Notepad <br>
 - IDE: NetBeans <br>
